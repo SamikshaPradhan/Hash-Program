@@ -1,0 +1,155 @@
+                          Name      Phone No.     Key
+
+                  Taylor marie       939-1512      40
+            james wilis thomas       261-8342      11
+                Hewy Lewy Dewy       623-9921      71
+                    Stone Rock       544-2372      36
+                  lea high lee       266-8324      22
+             stephens reynolds       696-9231       1
+                  mack russell       123-1234      69
+            Lewis Michelle Tee       828-2148      42
+                 john marshall       888-2891       4
+                 Mister Rogers       924-7221      54
+                    Hasey Moto       823-8000      37
+                    Snow White       111-9999      52
+                        Oe vey       177-1423      31
+             Twoseeor knocksee       823-8321      33
+                       Legg T.       587-2839      24
+                Znot Noz Oozey       531-4353      25
+                  So Pos Twobe       840-9933       3
+                    Hofstra M.       601-3225      45
+               Malioneyh P. J.       287-4344      12
+                  Morier G. E.       544-2319       2
+                  Cray Z. Cyco       134-7242       2
+                 Hauser Yauser       606-2940      49
+                Hack N Zakkers       231-4449      16
+                    LessGo Eat       233-1984      66
+                 Fanny Pac Jac       842-3242      44
+               Trigger Phanger       421-3435      75
+                 Sid MacGriddy       882-2424      51
+                 R Wee Phinish       745-8432       5
+                   Jimmy Jones       382-4413      66
+                  Currie W. D.       701-4281      13
+                Antoney Wenner       999-3255      78
+                 Hoos R. Dadie       818-3821      77
+              Chipoff E Oblock       773-4152      48
+                   Booger Runs       822-7724      67
+                    Smelly Tau       707-7281      44
+                Tobe Ore Knott       613-2414      48
+                 Bee Yond Lawz       634-2454       3
+                 Tyson Chicken       602-3152      34
+                    TooB OrNot       283-5214      65
+                  SixOne Other       843-2343      70
+              Joe Mac Nificant       430-1094      45
+                       Big Tow       384-5624      20
+                   Juan Legged       882-6246      19
+                       Tau Jam       532-6871      10
+                Zeventh Heaven       834-2563      60
+                   Man Oh Mann       313-7422       9
+                   E Lec Shaun       709-7424       4
+        Sticky Finger McRidder       829-9853      54
+                  Mighty Mouse       222-2222      26
+                    G P Morier       832-4562       0
+                  Knot Yet Dun       732-2452       3
+               Six One Another       829-8221      72
+                 Pha Sweed Doe       243-9233      55
+                     Lu C Kant       247-7345      43
+                    Thor Thumb       833-6391      41
+                    Big I KanC       878-0129       2
+                  Knot Dun Uet       729-5223      78
+                   Ah C Mowtoe       334-8294      19
+                  Cant B Leave       284-5762      18
+                      Lase Won       928-2824      50
+
+                 Hash Table
+                ------------
+
+ index:   0    Key:   0  Data: -> 832-4562
+ index:   1    Key:   1  Data: -> 696-9231
+ index:   2    Key:   2  Data: -> 544-2319 -> 134-7242 -> 878-0129
+ index:   3    Key:   3  Data: -> 840-9933 -> 634-2454 -> 732-2452
+ index:   4    Key:   4  Data: -> 888-2891 -> 709-7424
+ index:   5    Key:   5  Data: -> 745-8432
+ index:   6    Key:  -1  Data: ->  
+ index:   7    Key:  -1  Data: ->  
+ index:   8    Key:  -1  Data: ->  
+ index:   9    Key:   9  Data: -> 313-7422
+ index:  10    Key:  10  Data: -> 532-6871
+ index:  11    Key:  11  Data: -> 261-8342
+ index:  12    Key:  12  Data: -> 287-4344
+ index:  13    Key:  13  Data: -> 701-4281
+ index:  14    Key:  -1  Data: ->  
+ index:  15    Key:  -1  Data: ->  
+ index:  16    Key:  16  Data: -> 231-4449
+ index:  17    Key:  -1  Data: ->  
+ index:  18    Key:  18  Data: -> 284-5762
+ index:  19    Key:  19  Data: -> 882-6246 -> 334-8294
+ index:  20    Key:  20  Data: -> 384-5624
+ index:  21    Key:  -1  Data: ->  
+ index:  22    Key:  22  Data: -> 266-8324
+ index:  23    Key:  -1  Data: ->  
+ index:  24    Key:  24  Data: -> 587-2839
+ index:  25    Key:  25  Data: -> 531-4353
+ index:  26    Key:  26  Data: -> 222-2222
+ index:  27    Key:  -1  Data: ->  
+ index:  28    Key:  -1  Data: ->  
+ index:  29    Key:  -1  Data: ->  
+ index:  30    Key:  -1  Data: ->  
+ index:  31    Key:  31  Data: -> 177-1423
+ index:  32    Key:  -1  Data: ->  
+ index:  33    Key:  33  Data: -> 823-8321
+ index:  34    Key:  34  Data: -> 602-3152
+ index:  35    Key:  -1  Data: ->  
+ index:  36    Key:  36  Data: -> 544-2372
+ index:  37    Key:  37  Data: -> 823-8000
+ index:  38    Key:  -1  Data: ->  
+ index:  39    Key:  -1  Data: ->  
+ index:  40    Key:  40  Data: -> 939-1512
+ index:  41    Key:  41  Data: -> 833-6391
+ index:  42    Key:  42  Data: -> 828-2148
+ index:  43    Key:  43  Data: -> 247-7345
+ index:  44    Key:  44  Data: -> 842-3242 -> 707-7281
+ index:  45    Key:  45  Data: -> 601-3225 -> 430-1094
+ index:  46    Key:  -1  Data: ->  
+ index:  47    Key:  -1  Data: ->  
+ index:  48    Key:  48  Data: -> 773-4152 -> 613-2414
+ index:  49    Key:  49  Data: -> 606-2940
+ index:  50    Key:  50  Data: -> 928-2824
+ index:  51    Key:  51  Data: -> 882-2424
+ index:  52    Key:  52  Data: -> 111-9999
+ index:  53    Key:  -1  Data: ->  
+ index:  54    Key:  54  Data: -> 924-7221 -> 829-9853
+ index:  55    Key:  55  Data: -> 243-9233
+ index:  56    Key:  -1  Data: ->  
+ index:  57    Key:  -1  Data: ->  
+ index:  58    Key:  -1  Data: ->  
+ index:  59    Key:  -1  Data: ->  
+ index:  60    Key:  60  Data: -> 834-2563
+ index:  61    Key:  -1  Data: ->  
+ index:  62    Key:  -1  Data: ->  
+ index:  63    Key:  -1  Data: ->  
+ index:  64    Key:  -1  Data: ->  
+ index:  65    Key:  65  Data: -> 283-5214
+ index:  66    Key:  66  Data: -> 233-1984 -> 382-4413
+ index:  67    Key:  67  Data: -> 822-7724
+ index:  68    Key:  -1  Data: ->  
+ index:  69    Key:  69  Data: -> 123-1234
+ index:  70    Key:  70  Data: -> 843-2343
+ index:  71    Key:  71  Data: -> 623-9921
+ index:  72    Key:  72  Data: -> 829-8221
+ index:  73    Key:  -1  Data: ->  
+ index:  74    Key:  -1  Data: ->  
+ index:  75    Key:  75  Data: -> 421-3435
+ index:  76    Key:  -1  Data: ->  
+ index:  77    Key:  77  Data: -> 818-3821
+ index:  78    Key:  78  Data: -> 999-3255 -> 729-5223
+
+
+ Collisions: 12
+
+ Enter name: 
+
+ Key:-1
+ data: Not found.
+
+ Enter name: 
